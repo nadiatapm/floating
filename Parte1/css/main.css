@@ -1,1 +1,20 @@
-/* Pon tu código css aqui */
+.contenedor{
+	width:600px;
+	border:1px solid green;
+}
+.uno{
+	background-color:yellow;
+	width:150px;
+	height:100px;
+}
+.dos{
+	background-color:blue;
+	width:150px;
+	height:100px;
+}
+.tres{
+	background-color:#EA1A7C;
+	width:150px;
+	height:100px;
+
+}
